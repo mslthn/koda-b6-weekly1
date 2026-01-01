@@ -1,0 +1,74 @@
+[
+    {
+        "id" : 101,
+        "nama" : "Nasi Rames Payakumbuah",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 25000
+    },
+    {
+        "id" : 102,
+        "nama" : "Nasi Telur Balado",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 35000
+    },
+    {
+        "id" : 103,
+        "nama" : "Nasi Gulai Babat",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 45000
+    },
+    {
+        "id" : 104,
+        "nama" : "Nasi Ikan Salai",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 42000
+    },
+    {
+        "id" : 105,
+        "nama" : "Nasi Gulai Ikan",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 42000
+    }
+    {
+        "id" : 106,
+        "nama" : "Nasi Rendang",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 45000
+    },
+    {
+        "id" : 107,
+        "nama" : "Nasi Gulai Ayam",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 40000
+    },
+    {
+        "id" : 108,
+        "nama" : "Nasi Ayam Goreng",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 40000
+    },
+    {
+        "id" : 109,
+        "nama" : "Nasi Ayam Bakar",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 40000
+    },
+    {
+        "id" : 110,
+        "nama" : "Nasi Ayam Pop",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 40000
+    },
+    {
+        "id" : 111,
+        "nama" : "Nasi Ikan Bakar",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 42000
+    },
+    {
+        "id" : 112,
+        "nama" : "Nasi Dendeng ",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 
+    },
+]
