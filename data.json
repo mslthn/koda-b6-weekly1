@@ -28,7 +28,7 @@
         "nama" : "Nasi Gulai Ikan",
         "jenis" : "Nasi Bungkus 1 Lauk",
         "harga" : 42000
-    }
+    },
     {
         "id" : 106,
         "nama" : "Nasi Rendang",
@@ -67,8 +67,26 @@
     },
     {
         "id" : 112,
-        "nama" : "Nasi Dendeng ",
+        "nama" : "Nasi Dendeng Batokok Lado Hijau",
         "jenis" : "Nasi Bungkus 1 Lauk",
-        "harga" : 
+        "harga" : 45000
     },
+    {
+        "id" : 113,
+        "nama" : "Nasi Dendeng Batokok Lado Merah",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 45000
+    },
+    {
+        "Tambahan" : [
+            {
+                "nama" : "Nasi Putih",
+                "harga" : 125000
+            },
+            {
+                "nama" : "Ati Ampela Kentang Balado",
+                "harga" : 25000
+            }
+        ]
+    }
 ]
