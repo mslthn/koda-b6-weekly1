@@ -1,0 +1,503 @@
+[
+    {
+        "id" : 101,
+        "nama" : "Nasi Rames Payakumbuah",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 25000
+    },
+    {
+        "id" : 102,
+        "nama" : "Nasi Telur Balado",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 35000
+    },
+    {
+        "id" : 103,
+        "nama" : "Nasi Gulai Babat",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 45000
+    },
+    {
+        "id" : 104,
+        "nama" : "Nasi Ikan Salai",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 42000
+    },
+    {
+        "id" : 105,
+        "nama" : "Nasi Gulai Ikan",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 42000
+    },
+    {
+        "id" : 106,
+        "nama" : "Nasi Rendang",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 45000
+    },
+    {
+        "id" : 107,
+        "nama" : "Nasi Gulai Ayam",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 40000
+    },
+    {
+        "id" : 108,
+        "nama" : "Nasi Ayam Goreng",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 40000
+    },
+    {
+        "id" : 109,
+        "nama" : "Nasi Ayam Bakar",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 40000
+    },
+    {
+        "id" : 110,
+        "nama" : "Nasi Ayam Pop",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 40000
+    },
+    {
+        "id" : 111,
+        "nama" : "Nasi Ikan Bakar",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 42000
+    },
+    {
+        "id" : 112,
+        "nama" : "Nasi Dendeng Batokok Lado Hijau",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 45000
+    },
+    {
+        "id" : 113,
+        "nama" : "Nasi Dendeng Batokok Lado Merah",
+        "jenis" : "Nasi Bungkus 1 Lauk",
+        "harga" : 45000
+    },
+    {
+        "id" : 201,
+        "nama" : "Nasi Putih",
+        "jenis" : "Menu Tambahan",
+        "harga" : 12500
+    },
+    {
+        "id" : 202,
+        "nama" : "Ati Ampela Kentang Balado",
+        "jenis" : "Menu Tambahan",
+        "harga" : 25000
+    },
+    {
+        "id" : 203,
+        "nama" : "Jengkol Balado",
+        "jenis" : "Menu Tambahan",
+        "harga" : 20000
+    },
+    {
+        "id" : 204,
+        "nama" : "Sambal Ayam Pop",
+        "jenis" : "Menu Tambahan",
+        "harga" : 10000
+    },
+    {
+        "id" : 205,
+        "nama" : "Sambal Hijau",
+        "jenis" : "Menu Tambahan",
+        "harga" : 10000
+    },
+    {
+        "id" : 206,
+        "nama" : "Sayur Kapau",
+        "jenis" : "Menu Tambahan",
+        "harga" : 17000
+    },
+    {
+        "id" : 207,
+        "nama" : "Telur Balado",
+        "jenis" : "Menu Tambahan",
+        "harga" : 17000
+    },
+    {
+        "id" : 208,
+        "nama" : "Telur Barendo (2 telur)",
+        "jenis" : "Menu Tambahan",
+        "harga" : 30000
+    },
+    {
+        "id" : 209,
+        "nama" : "Telur Barendo (3 telur)",
+        "jenis" : "Menu Tambahan",
+        "harga" : 35000
+    },
+    {
+        "id" : 210,
+        "nama" : "Daun Singkong",
+        "jenis" : "Menu Tambahan",
+        "harga" : 12000
+    },
+    {
+        "id" : 211,
+        "nama" : "Perkedel",
+        "jenis" : "Menu Tambahan",
+        "harga" : 10000
+    },
+    {
+        "id" : 212,
+        "nama" : "Terong Balado",
+        "jenis" : "Menu Tambahan",
+        "harga" : 12000
+    },
+    {
+        "id" : 213,
+        "nama" : "Kerupuk Kulit",
+        "jenis" : "Menu Tambahan",
+        "harga" : 23000
+    },
+    {
+        "id" : 214,
+        "nama" : "Kerupuk Kulit Kuah Gulai",
+        "jenis" : "Menu Tambahan",
+        "harga" : 28000
+    },
+    {
+        "id" : 301,
+        "nama" : "Ikan Salai",
+        "jenis" : "Pilihan Ikan",
+        "harga" : 21000
+    },
+    {
+        "id" : 302,
+        "nama" : "Gulai Ikan",
+        "jenis" : "Pilihan Ikan",
+        "harga" : 30000
+    },
+    {
+        "id" : 303,
+        "nama" : "Ikan Bakar",
+        "jenis" : "Pilihan Ikan",
+        "harga" : 30000
+    },
+    {
+        "id" : 304,
+        "nama" : "Ikan Goreng",
+        "jenis" : "Pilihan Ikan",
+        "harga" : 30000
+    },
+    {
+        "id" : 305,
+        "nama" : "Ikan Balado Tongkol",
+        "jenis" : "Pilihan Ikan",
+        "harga" : 30000
+    },
+    {
+        "id" : 306,
+        "nama" : "Ikan Balado Kembung",
+        "jenis" : "Pilihan Ikan",
+        "harga" : 30000
+    },
+    {
+        "id" : 307,
+        "nama" : "Gulai Kepala Kakap",
+        "jenis" : "Pilihan Ikan",
+        "harga" : 205000
+    },
+    {
+        "id" : 308,
+        "nama" : "Gulai Cumi",
+        "jenis" : "Pilihan Ikan",
+        "harga" : 45000
+    },
+    {
+        "id" : 309,
+        "nama" : "Udang Balado",
+        "jenis" : "Pilihan Ikan",
+        "harga" : 40000
+    },
+    {
+        "id" : 310,
+        "nama" : "Belut Balado",
+        "jenis" : "Pilihan Ikan",
+        "harga" : 40000
+    },
+    {
+        "id" : 401,
+        "nama" : "Ayam Pop",
+        "jenis" : "Pilihan Ayam",
+        "harga" : 28000
+    },
+    {
+        "id" : 402,
+        "nama" : "Ayam Gulai",
+        "jenis" : "Pilihan Ayam",
+        "harga" : 28000
+    },
+    {
+        "id" : 403,
+        "nama" : "Ayam Bakar",
+        "jenis" : "Pilihan Ayam",
+        "harga" : 28000
+    },
+    {
+        "id" : 404,
+        "nama" : "Ayam Goreng",
+        "jenis" : "Pilihan Ayam",
+        "harga" : 28000
+    },
+    {
+        "id" : 405,
+        "nama" : "Paru Kering/Goreng",
+        "jenis" : "Pilihan Ayam",
+        "harga" : 24000
+    },
+    {
+        "id" : 406,
+        "nama" : "Ayam Balado",
+        "jenis" : "Pilihan Ayam",
+        "harga" : 28000
+    },
+    {
+        "id" : 407,
+        "nama" : "Ayam Cabe Ijo",
+        "jenis" : "Pilihan Ayam",
+        "harga" : 28000
+    },
+    {
+        "id" : 408,
+        "nama" : "Ayam Rendang",
+        "jenis" : "Pilihan Ayam",
+        "harga" : 28000
+    },
+    {
+        "id" : 501,
+        "nama" : "Dendeng Batokok Lado Hijau",
+        "jenis" : "Pilihan Daging",
+        "harga" : 35000
+    },
+    {
+        "id" : 502,
+        "nama" : "Dendeng Batokok Lado Merah",
+        "jenis" : "Pilihan Daging",
+        "harga" : 35000
+    },
+    {
+        "id" : 503,
+        "nama" : "Gulai Cincang",
+        "jenis" : "Pilihan Daging",
+        "harga" : 40000
+    },
+    {
+        "id" : 504,
+        "nama" : "Gulai Kikil",
+        "jenis" : "Pilihan Daging",
+        "harga" : 42000
+    },
+    {
+        "id" : 505,
+        "nama" : "Gulai Babat",
+        "jenis" : "Pilihan Daging",
+        "harga" : 35000
+    },
+    {
+        "id" : 506,
+        "nama" : "Gulai Tambusu",
+        "jenis" : "Pilihan Daging",
+        "harga" : 30000
+    },
+    {
+        "id" : 507,
+        "nama" : "Rendang",
+        "jenis" : "Pilihan Daging",
+        "harga" : 35000
+    },
+    {
+        "id" : 508,
+        "nama" : "Rendang Pouch",
+        "jenis" : "Pilihan Daging",
+        "harga" : 125000
+    },
+    {
+        "id" : 509,
+        "nama" : "Gulai Otak",
+        "jenis" : "Pilihan Daging",
+        "harga" : 45000
+    },
+    {
+        "id" : 510,
+        "nama" : "Paru Kering/Goreng",
+        "jenis" : "Pilihan Daging",
+        "harga" : 24000
+    },
+    {
+        "id" : 511,
+        "nama" : "Kikil Cabe Ijo",
+        "jenis" : "Pilihan Daging",
+        "harga" : 42000
+    },
+    {
+        "id" : 601,
+        "nama" : "Aqua 330ml",
+        "jenis" : "Pilihan Minuman",
+        "harga" : 12500
+    },
+    {
+        "id" : 602,
+        "nama" : "Teh Tawar",
+        "jenis" : "Pilihan Minuman",
+        "harga" : 10000
+    },
+    {
+        "id" : 603,
+        "nama" : "Teh Manis",
+        "jenis" : "Pilihan Minuman",
+        "harga" : 12000
+    },
+    {
+        "id" : 604,
+        "nama" : "Es Teh Tawar",
+        "jenis" : "Pilihan Minuman",
+        "harga" : 12000
+    },
+    {
+        "id" : 605,
+        "nama" : "Es Teh Manis",
+        "jenis" : "Pilihan Minuman",
+        "harga" : 15000
+    },
+    {
+        "id" : 606,
+        "nama" : "Kopmil",
+        "jenis" : "Pilihan Minuman",
+        "harga" : 26000
+    },
+    {
+        "id" : 607,
+        "nama" : "Teh Talua",
+        "jenis" : "Pilihan Minuman",
+        "harga" : 26000
+    },
+    {
+        "id" : 608,
+        "nama" : "Es Batu",
+        "jenis" : "Pilihan Minuman",
+        "harga" : 2000
+    },
+    {
+        "id" : 609,
+        "nama" : "Es Jeruk",
+        "jenis" : "Pilihan Minuman",
+        "harga" : 22000
+    },
+    {
+        "id" : 701,
+        "nama" : "Jus Alpukat",
+        "jenis" : "Aneka Jus",
+        "harga" : 25000
+    },
+    {
+        "id" : 702,
+        "nama" : "Jus Jambu",
+        "jenis" : "Aneka Jus",
+        "harga" : 25000
+    },
+    {
+        "id" : 703,
+        "nama" : "Jus Jeruk",
+        "jenis" : "Aneka Jus",
+        "harga" : 25000
+    },
+    {
+        "id" : 704,
+        "nama" : "Jus Markisa Terong Belanda",
+        "jenis" : "Aneka Jus",
+        "harga" : 25000
+    },
+    {
+        "id" : 705,
+        "nama" : "Jus Melon",
+        "jenis" : "Aneka Jus",
+        "harga" : 25000
+    },
+    {
+        "id" : 706,
+        "nama" : "Jus Sirsak",
+        "jenis" : "Aneka Jus",
+        "harga" : 25000
+    },
+    {
+        "id" : 707,
+        "nama" : "Jus Strawberry",
+        "jenis" : "Aneka Jus",
+        "harga" : 25000
+    },
+    {
+        "id" : 708,
+        "nama" : "Jus Mangga",
+        "jenis" : "Aneka Jus",
+        "harga" : 25000
+    },
+    {
+        "id" : 801,
+        "nama" : "Es Timun Serut",
+        "jenis" : "Hidangan Penutup",
+        "harga" : 23000
+    },
+    {
+        "id" : 802,
+        "nama" : "Es Durian",
+        "jenis" : "Hidangan Penutup",
+        "harga" : 28000
+    },
+    {
+        "Paket" : [
+            {
+                "id" : 901,
+                "nama" : "Nasi Box Paket Ayam",
+                "harga" : 40000,
+                "pilihan" : ["Ayam Pop", "Ayam Goreng", "Ayam Bakar", "Ayam Gulai"]
+            },
+            {
+                "id" : 902,
+                "nama" : "Nasi Box Paket Dagiang",
+                "harga" : 42000,
+                "pilihan" :["Rendang", "Dendeng Lado Hijau", "Dendeng Lado Merah"]
+            },
+            {
+                "id" : 903,
+                "nama" : "Nasi Box Payakumbuah",
+                "harga" : 44000,
+                "pilihan" : ["Gulai Cincang", "Gulai Kikil"]
+            },
+            {
+                "id" : 904,
+                "nama" : "Nasi Box Paket Gadang 1",
+                "harga" : 62500,
+                "pilihan" : ["Ayam Pop", "Ayam Goreng", "Ayam Bakar", "Ayam Gulai"],
+                "tambahan" : ["Telur Balado", "Perkedel"]
+            },
+            {
+                "id" : 905,
+                "nama" : "Nasi Box Paket Gadang 2",
+                "harga" : 65000,
+                "pilihan" : ["Rendang", "Dendeng Lado Hijau", "Dendeng Lado Merah"],
+                "tambahan" : ["Telur Balado", "Perkedel"]
+            },
+            {
+                "id" : 906,
+                "nama" : "Nasi Box Paket Gadang 3",
+                "harga" : 67000,
+                "pilihan" : ["Gulai Cincang", "Gulai Kikil"],
+                "tambahan" : ["Telur Balado", "Perkedel"]
+            },
+            {
+                "id" : 907,
+                "nama" : "Nasi Box Paket Gadang 4",
+                "harga" : 72000,
+                "pilihan ayam" : ["Ayam Pop", "Ayam Goreng", "Ayam Gulai", "Ayam Bakar"],
+                "pilihan daging" : ["Rendang", "Dendeng Lado Hijau", "Dendeng Lado Merah"],
+                "pilihan lauk" : ["Gulai Cincang", "Gulai Kikil"]
+            }
+        ]
+    }
+]
